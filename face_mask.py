@@ -3,9 +3,10 @@ from main import prediction
 from PIL import Image
 import cv2
 
-st.title('Face Mask Detection')
+st.set_page_config(page_title="Face Mask Detection", layout="centered")
 
-st.subheader("Click on the option below")
+st.title(':blue[Face Mask Detection]')
+st.subheader(":blue[Click on the option below]")
 
 
 if "show_uploader" not in st.session_state:
