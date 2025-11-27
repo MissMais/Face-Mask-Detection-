@@ -1,3 +1,4 @@
-tensorflow
+tensorflow-cpu==2.12.0
 streamlit
-cv2
+opencv-python
+Pillow
