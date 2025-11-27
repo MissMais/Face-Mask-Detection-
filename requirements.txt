@@ -1,4 +1,3 @@
 tensorflow
 streamlit
-PIL
-main
+cv2
