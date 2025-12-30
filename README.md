@@ -27,6 +27,5 @@ This indicates that the model generalizes well and effectively identifies face m
 <h4>Prediction2</h4>
 <img alt="image" src="https://github.com/user-attachments/assets/af97487c-cf30-4263-9773-c3a02ee1a43b" />
 
-<img width="1406" height="751" alt="image" src="https://github.com/user-attachments/assets/23914a6b-6a0e-4d2e-ae9e-bd71e9315e9e" />
 
 
